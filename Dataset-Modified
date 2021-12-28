@@ -1,0 +1,4 @@
+Train and test datasets are uploaded here.
+Train dataset has about 20868 records- 358 Fails recorded for 4 Type of KV-Valve
+
+Test dataset has 7070 ( 25% Whole dataset), 119 Fails for valves
