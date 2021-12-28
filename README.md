@@ -4,3 +4,5 @@ A risk assessment study and repair time proposal has been performed for a very s
 Predictive maintenance study for Complex case study.
 we've obtained failure causes was basically an operation fault and more basically a design Error of the plant.
 Obviously, the use of code and content needs to cite the source.
+
+For more you can check this out https://docs.microsoft.com/en-us/azure/architecture/data-science-process/predictive-maintenance-playbook
